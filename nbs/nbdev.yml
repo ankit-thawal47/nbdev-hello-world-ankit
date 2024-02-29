@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world-ankit"
+  site-url: "https://ankit-thawal47.github.io/nbdev-hello-world-ankit"
+  description: "Trying out the functionaliyt of nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/ankit-thawal47/nbdev-hello-world-ankit"
